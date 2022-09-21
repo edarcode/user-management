@@ -8,9 +8,8 @@
 
 ## Definición de entidades
 
-- Usuario: Usuario registrado en la plataforma, todos los campos son obligatorios.
+- Nombre de usuario: Usuario registrado en la plataforma, todos los campos son obligatorios.
 - Nombre: Mínimo de 2 caracteres y un máximo 20 (Todos los caracteres serán válidos)
-- Apellidos: Mínimo de 4 y máximo de 50 (Todos los caracteres serán válidos)
 - Email: Deberá cumplir el RFC 5322
 - Contraseña: Mínimo de 8 caracteres y máximo de 20 (Al menos una minúscula, mayúscula y un número)
 
